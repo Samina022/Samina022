@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Samina022
-- 👀 I’m interested in Python,Data Analysis and IT support
+👀 I’m interested in Python,Data Analysis and IT support
 - 🌱 I’m currently learning pythong and data analysis
-- 💞️ I’m looking to collaborate on python codes, syber secuerity issues and data
+- 💞️ I’m looking to collaborate on python codes, Cyber secuerity issues and data
 - 📫 How to reach me you can drop me a inbox message
 
 <!---
