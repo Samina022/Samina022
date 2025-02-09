@@ -1,20 +1,22 @@
 # 👋 Hi, I'm Samina Naz
-🚀 **Digital Marketing & AI Enthusiast** | 💡 **Tech Innovator** | 🤖 **Chatbots & Agentic AI** | 📈 **SEO & PPC Specialist**  
+
+🚀 **Digital Marketing & AI Specialist** | 🤖 **Chatbots & Agentic AI** | 🔥 **Custom GPTs & Prompt Engineering** | 📈 **SEO & PPC Expert**  
 
 ## 🔥 About Me  
-I specialize in **digital marketing strategies, AI-driven automation, and chatbot development**. Passionate about **SEO, Google an Meta Ads, and AI-powered marketing**, I help businesses grow their online presence through **data-driven strategies**.  
+I specialize in **AI-driven marketing, chatbot development, and automation**. Passionate about **SEO, paid ads, and AI-powered strategies**, I help businesses enhance their online presence through **data-driven decision-making**.  
 
 ## 💼 What I Do  
 - 📊 **SEO & PPC** – Helping brands outrank competitors and maximize ROI.  
 - 🤖 **AI & Automation** – Implementing AI models like LangChain & Gemini for smarter marketing.  
 - 💬 **Chatbots & Agentic AI** – Developing AI-driven conversational assistants and autonomous agents.  
+- 🧠 **Custom GPTs & Prompt Engineering** – Crafting tailored GPT solutions and optimizing LLM interactions.  
 
 ## 🛠 Tech Stack  
-- **AI/ML**: LangChain, OpenAI, Google Gemini, Mistral AI  
+- **AI/ML**: LangChain, OpenAI GPTs, Google Gemini, Mistral AI  
 - **Chatbots & AI Agents**: RAG-based AI, Agentic AI, LangChain Agents  
+- **Custom AI Models**: Fine-tuned GPTs, API Integrations, AI-powered automation  
 - **Marketing Tools**: Google Ads, Meta Ads, Ahrefs, SEMrush  
-- **Development**: Python, JavaScript, SharePoint  
-
+- **Development**: Python (for AI & automation tasks) 
 ## 📫 Let's Connect  
 - 🔗 **GitHub**: (https://github.com/Samina022) 
 - 💼 **LinkedIn**: (https://www.linkedin.com/in/samina-c-0080aa253/)
