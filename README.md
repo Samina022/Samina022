@@ -16,7 +16,7 @@ I specialize in **digital marketing strategies, AI-driven automation, and chatbo
 - **Development**: Python, JavaScript, SharePoint  
 
 ## 📫 Let's Connect  
-- 🔗 **GitHub**: [Your GitHub Profile]  
+- 🔗 **GitHub**: (https://github.com/Samina022) 
 - 💼 **LinkedIn**: (https://www.linkedin.com/in/samina-c-0080aa253/)
 
 
