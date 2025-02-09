@@ -2,7 +2,7 @@
 🚀 **Digital Marketing & AI Enthusiast** | 💡 **Tech Innovator** | 🤖 **Chatbots & Agentic AI** | 📈 **SEO & PPC Specialist**  
 
 ## 🔥 About Me  
-I specialize in **digital marketing strategies, AI-driven automation, and chatbot development**. Passionate about **SEO, paid ads, and AI-powered marketing**, I help businesses grow their online presence through **data-driven strategies**.  
+I specialize in **digital marketing strategies, AI-driven automation, and chatbot development**. Passionate about **SEO, Google an Meta Ads, and AI-powered marketing**, I help businesses grow their online presence through **data-driven strategies**.  
 
 ## 💼 What I Do  
 - 📊 **SEO & PPC** – Helping brands outrank competitors and maximize ROI.  
